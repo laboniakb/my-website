@@ -1,58 +1,72 @@
-.half-width {
-    width:33%;
-    padding-left: 200px;
-    color: white;
-}
-.half-width {
-    width:33%;
-    padding-left: 200px;
-    color: white;
-}
-.half-width {
-    text-align: center;
-    margin: auto;
-}
-.rig-1 {
-    font-size: 50px;
-    font-weight: 700;
-}
-.rig-2 {
-    font-size: 17px;
-}
-.rig-5 {
-    font-size: 50px;
-    font-weight: 700;
-}
-.rig-6 {
-    font-size: 17px;
-}
-.login-btn {
-    border: turquoise;
-    background-color: hwb(180 11% 15%);
-    color: white;
-    padding: 13px 40px;
-    font-weight: 800;
-    border-radius: 7px;
-    margin: 30px auto;
-    margin-left: 23%;
-}
-.login-btn2 {
-    border: turquoise;
-    background-color: purple;
-    color: turquoise;
-    padding: 15px 40px;
-    font-weight: 800;
-    border-radius: 7px;
-    margin: 30px auto;
-    margin-left: 23%;
-}
-.login-btn3 {
-    border: turquoise;
-    background-color: hsl(191, 69%, 58%);
-    color: white;
-    padding: 13px 40px;
-    font-weight: 800;
-    border-radius: 7px;
-    margin: 30px auto;
-    margin-left: 23%;
-}
+      .body {
+          margin: 0;
+          padding: 0;
+      }
+
+      .half-width {
+          width: 33%;
+          padding-left: 200px;
+          color: white;
+      }
+
+      .half-width {
+          width: 33%;
+          padding-left: 200px;
+          color: white;
+      }
+
+      .half-width {
+          text-align: center;
+          margin: auto;
+      }
+
+      .rig-1 {
+          font-size: 50px;
+          font-weight: 700;
+      }
+
+      .rig-2 {
+          font-size: 17px;
+      }
+
+      .rig-5 {
+          font-size: 50px;
+          font-weight: 700;
+      }
+
+      .rig-6 {
+          font-size: 17px;
+      }
+
+      .login-btn {
+          border: turquoise;
+          background-color: hwb(180 11% 15%);
+          color: white;
+          padding: 13px 40px;
+          font-weight: 800;
+          border-radius: 7px;
+          margin: 30px auto;
+          margin-left: 23%;
+      }
+
+      .login-btn2 {
+          border: turquoise;
+          background-color: purple;
+          color: turquoise;
+          padding: 15px 40px;
+          font-weight: 800;
+          border-radius: 7px;
+          margin: 30px auto;
+          margin-left: 23%;
+      }
+
+      .login-btn3 {
+          border: turquoise;
+          background-color: hsl(191, 69%, 58%);
+          color: white;
+          padding: 13px 40px;
+          font-weight: 800;
+          border-radius: 7px;
+          margin: 30px auto;
+          margin-left: 23%;
+      }
